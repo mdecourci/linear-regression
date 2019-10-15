@@ -1,6 +1,6 @@
 # Train a model to predict the Boston Housing dataset
 
-# Spark ML
+# Spark ML (Only Java8 compatible)
 The idea is to distribute the calculations to multiple low-end machines (commodity hardware) instead of a single high-end one. 
 This will definitely speed up the learning phase and allows us to create better model
 

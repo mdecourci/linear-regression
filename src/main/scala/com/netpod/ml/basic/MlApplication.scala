@@ -19,5 +19,7 @@ object MlApplication {
   //  regression.sampleData(sparkSession, fileName)
 
     regression.fitData(sparkSession, fileName)
+
+    sparkSession.close()
   }
 }
