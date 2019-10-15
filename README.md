@@ -26,4 +26,7 @@ The dataset is small in size with only 506 cases. It contains 14 features descri
 
 The goal is to use the 13 features to predict the value of MEDV (which represents the housing price).
 
-## DataSet
+## Model 
+The dataset was split so that 70% represents training data and 30% test data.  
+There was insuffient data to get good fit with a split of 70% = training data,20% = test data and 10% = verify data
+revisit?
